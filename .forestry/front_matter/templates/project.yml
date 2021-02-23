@@ -36,4 +36,5 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- photography/ricinus-copy.md
 - photography/ricinus.md
